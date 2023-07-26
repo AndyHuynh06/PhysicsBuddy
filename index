@@ -23,14 +23,14 @@
       <source src="images/background-video.mp4" type="video/mp4">
     </video>
     <nav>
-      <a href="index.html"><img src="images/logo.png"></a>
+      <a href="/"><img src="images/logo.png"></a>
       <div class="nav-links" id="navLinks">
         <span class="material-symbols-outlined" id="close" onclick="hideMenu()">close</span>
         <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="booklet.html">Ultimate formula booklet</a></li>
-          <li><a href="recommended.html">Recommend resources</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="booklet">Ultimate formula booklet</a></li>
+          <li><a href="recommended">Recommend resources</a></li>
+          <li><a href="contact">Contact</a></li>
         </ul>
       </div>
       <span class="material-symbols-outlined" id="menu" onclick="showMenu()">menu</span>
@@ -95,7 +95,7 @@
           This is a full annotated formula booklet,
           containing notes that we find helpful. Feel free to share any recommendation!
         </p>
-        <a href="booklet.html">Go to "Ultimate Formula Booklete"</a>
+        <a href="booklet">Go to "Ultimate Formula Booklete"</a>
       </div>
       <div class="content-col">
         <i class="fa-regular fa-thumbs-up"></i>
@@ -106,7 +106,7 @@
           This contains all the helpful resouces for revision/other websites to help you. Feel free to recommend us some
           more!
         </p>
-        <a href="recommended.html">Go to "Recommended resources"</a>
+        <a href="recommended">Go to "Recommended resources"</a>
       </div>
       <div class="content-col">
         <i class="fa-regular fa-comment"></i>
@@ -117,7 +117,7 @@
           "There's no such thing as a stupid question". We are always here to help you with hard problems, click the
           link below to contact us!
         </p>
-        <a href="contact.html">Go to "Contact"</a>
+        <a href="contact">Go to "Contact"</a>
       </div>
     </div>
   </section>
@@ -128,10 +128,10 @@
       <h4>PhysicsBuddy: Ace Your Physics Yourney!</h4>
       <div class="footerNav">
         <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="booklet.html">Ultimate formula booklet</a></li>
-          <li><a href="recommended.html">Recommend resources</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="booklet">Ultimate formula booklet</a></li>
+          <li><a href="recommended">Recommend resources</a></li>
+          <li><a href="contact">Contact</a></li>
         </ul>
       </div>
       <div class="icons">
